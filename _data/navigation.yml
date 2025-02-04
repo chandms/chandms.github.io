@@ -17,10 +17,13 @@ main:
   - title: "SWE"
     url: /swe/
 
+  - title: "Education"
+    url: /education/
+
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "CV"
+  - title: "Resume"
     url: /files/Resume_2025.pdf
 
   # - title: "Guide"

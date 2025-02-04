@@ -52,7 +52,7 @@ redirect_from:
 >
 > 🔹 Fingerprinted 100 WebXR and 100 standalone XR apps, along with various XR objects within the apps, achieving over 90% accuracy using classical ML and DL models (e.g., Random Forest, SVM, CNN, LSTM).
 >
-> 🔹 Tech stack - XR app development using C# and Unity, C#, Python.
+> 🔹 Tech stack - XR app development using C# and Unity, Python.
 
 ---
 

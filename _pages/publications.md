@@ -14,7 +14,8 @@ redirect_from:
 > Authors: **Chandrika Mukherjee**, Reham Mohamed, Arjun Arunasalam,  
 > Habiba Farrukh and Z. Berkay Celik
 >
-> Conference: USENIX Security Symposium, 2025 (to appear)
+> Conference: USENIX Security Symposium, 2025  
+> [Paper here](../files/2025_Shadowed_Realities_watermark.pdf){:target="\_blank"}
 
 ## 📜 Workshop Papers
 

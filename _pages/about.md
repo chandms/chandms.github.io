@@ -18,6 +18,8 @@ Therefore, my research combines user-centered mixed-method approaches, comprisin
 
 # Updates
 
+- **[March 2025]** I gave a guest lecture in Purdue’s CS 361 course on 'Introduction to XR and Security & Privacy Challenges'.
+
 - **[January 2025]** I have received an internship offer from Meta and will be in Seattle during Summer'25.
 
 - **[Januray 2025]** Our work about XR security was accepted in USENIX Security'25.

@@ -18,6 +18,10 @@ Therefore, my research combines user-centered mixed-method approaches, comprisin
 
 # Updates
 
+- **[April 2025]** Received SIGBED student travel grant from CPS-IoT Week 2025.
+
+- **[April 2025]** Received Purdue Women in Science Program (WISP) travel grant 2025.
+
 - **[March 2025]** Our work on securing user interactions in WebXR has been accepted for presentation at HumanSys 2025.
 
 - **[March 2025]** We received a bug bounty award from Meta for our collaborative work with Iowa State University on GPU-based side-channel vulnerabilities.

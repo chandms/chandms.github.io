@@ -9,6 +9,14 @@ redirect_from:
 
 ## 📚 Conference Proceedings
 
+> Title: **Demo: UI Based Attacks in WebXR**
+>
+> Authors: **Chandrika Mukherjee**, Reham Mohamed, Arjun Arunasalam,  
+> Habiba Farrukh and Z. Berkay Celik
+>
+> Conference: ACM MobiSys, 2025 (to appear)  
+> [Paper here](../files/2025_mobisys_demo.pdf){:target="\_blank"}
+
 > Title: **Shadowed Realities: An Investigation of UI Attacks in WebXR**
 >
 > Authors: **Chandrika Mukherjee**, Reham Mohamed, Arjun Arunasalam,  

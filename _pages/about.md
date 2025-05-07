@@ -18,6 +18,8 @@ Therefore, my research combines user-centered mixed-method approaches, comprisin
 
 # Updates
 
+- **[May 2025]** Presented our paper **Towards Secure User Interaction in WebXR** at HumanSys 2025 workshop in the CPS-IoT Week at UC Irvine.
+
 - **[April 2025]** Our demo on UI based attacks in WebXR has been accepted for presentation at ACM MobiSys 2025.
 
 - **[April 2025]** Received SIGBED student travel grant from CPS-IoT Week 2025.

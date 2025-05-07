@@ -32,8 +32,9 @@ redirect_from:
 > Authors: **Chandrika Mukherjee**, Arjun Arunasalam, Habiba Farrukh,  
 > Reham Mohamed and Z. Berkay Celik
 >
-> Workshop: HumanSys @ SenSys, 2025 (to appear)  
-> [Paper here](../files/2025_Shadowed_Logger_watermark.pdf){:target="\_blank"}
+> Workshop: HumanSys @ SenSys, 2025  
+> [Paper here](https://dl.acm.org/doi/10.1145/3722570.3726880){:target="\_blank"}  
+> [Poster here](../files/humansys_poster_2025.pdf){:target="\_blank"}
 
 > Title: **On designing a fast-deployable 'localized' GIS platform for using 'offline' during post-disaster situation**
 >

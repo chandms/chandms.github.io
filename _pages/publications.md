@@ -22,7 +22,7 @@ redirect_from:
 > Authors: **Chandrika Mukherjee**, Reham Mohamed, Arjun Arunasalam,  
 > Habiba Farrukh and Z. Berkay Celik
 >
-> Conference: USENIX Security Symposium, 2025 (to appear)  
+> Conference: USENIX Security Symposium, 2025  
 > [Paper here](https://www.usenix.org/conference/usenixsecurity25/presentation/mukherjee){:target="\_blank"}
 
 ## 📜 Workshop Papers

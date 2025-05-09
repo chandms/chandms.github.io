@@ -23,7 +23,7 @@ redirect_from:
 > Habiba Farrukh and Z. Berkay Celik
 >
 > Conference: USENIX Security Symposium, 2025 (to appear)  
-> [Paper here](../files/2025_Shadowed_Realities_watermark.pdf){:target="\_blank"}
+> [Paper here](https://www.usenix.org/conference/usenixsecurity25/presentation/mukherjee){:target="\_blank"}
 
 ## 📜 Workshop Papers
 

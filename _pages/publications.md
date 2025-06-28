@@ -9,13 +9,45 @@ redirect_from:
 
 ## 📚 Conference Proceedings
 
-> Title: **Demo: UI Based Attacks in WebXR**
->
-> Authors: **Chandrika Mukherjee**, Reham Mohamed, Arjun Arunasalam,  
-> Habiba Farrukh and Z. Berkay Celik
->
-> Conference: ACM MobiSys, 2025 (to appear)  
-> [Paper here](../files/2025_mobisys_demo.pdf){:target="\_blank"}
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <div>
+    
+    <blockquote>
+    <p><strong>Title:</strong> <em>Demo: UI Based Attacks in WebXR</em></p>
+
+    <p><strong>Authors:</strong> <strong>Chandrika Mukherjee</strong>, Reham Mohamed, Arjun Arunasalam,
+    Habiba Farrukh and Z. Berkay Celik</p>
+
+    <p><strong>Conference:</strong> ACM MobiSys, 2025 (to appear)
+    <br>
+    <a href="../files/2025_mobisys_demo.pdf" target="_blank">Paper here</a>,
+    <a href="../files/mobisys_demo_poster_2025_final.pdf" target="_blank">Poster here</a></p>
+    </blockquote>
+
+  </div>
+
+  <div>
+    <a href="https://www.youtube.com/watch?v=FIiNV-5IXnk" target="_blank">
+      <img src="../images/cover_pic.png" width="300" height="500" alt="Video thumbnail" />
+    </a>
+    <br>
+    <a href="https://github.com/chandms/demo_app_webxr_main" target="_blank">
+    GitHub Link-1, 
+    </a>
+    <a href="https://github.com/chandms/demo_app_webxr_other" target="_blank">
+    GitHub Link-2
+    </a>
+    <br>
+    <a href="https://chandms.github.io/demo_app_webxr_main/controller_based.html" target="_blank">
+    Live: Attacks in controller based and 
+    </a>
+    <a href="https://chandms.github.io/demo_app_webxr_main/gaze_based.html" target="_blank">
+    Attacks in gaze based environment. 
+    </a>
+  </div>
+
+</div>
 
 > Title: **Shadowed Realities: An Investigation of UI Attacks in WebXR**
 >

@@ -18,6 +18,10 @@ Therefore, my research combines user-centered mixed-method approaches, comprisin
 
 # Updates
 
+- **[June 2025]** Presented our demo paper **Demo: UI Based Attacks in WebXR** at MobiSys 2025 conference in Anaheim, CA.
+
+- **[May 2025]** Started my internship at Meta in Seattle with the Data Flows team under Privacy infra.
+
 - **[May 2025]** Presented our paper **Towards Secure User Interaction in WebXR** at HumanSys 2025 workshop in the CPS-IoT Week at UC Irvine.
 
 - **[April 2025]** Our demo on UI based attacks in WebXR has been accepted for presentation at ACM MobiSys 2025.

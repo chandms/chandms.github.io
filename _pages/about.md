@@ -18,6 +18,12 @@ Therefore, my research combines user-centered mixed-method approaches, comprisin
 
 # Updates
 
+- **[August 2025]** Our collaborative research with Iowa State University on GPU-based side-channel attacks in XR has been accepted at NDSS 2026.
+
+- **[August 2025]** At USENIX Security 2025 in Seattle, I presented our paper **Shadowed Realities: An Investigation of UI Attacks in WebXR**, which was recognized with an **Honorable Mention Award** (top 25) 🏆.
+
+- **[July 2025]** Received USENIX Security'25 student travel grant.
+
 - **[June 2025]** Presented our demo paper **Demo: UI Based Attacks in WebXR** at MobiSys 2025 conference in Anaheim, CA.
 
 - **[May 2025]** Started my internship at Meta in Seattle with the Data Flows team under Privacy infra.

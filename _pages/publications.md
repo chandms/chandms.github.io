@@ -19,7 +19,7 @@ redirect_from:
     <p><strong>Authors:</strong> <strong>Chandrika Mukherjee</strong>, Reham Mohamed, Arjun Arunasalam,
     Habiba Farrukh and Z. Berkay Celik</p>
 
-    <p><strong>Conference:</strong> ACM MobiSys, 2025 (to appear)
+    <p><strong>Conference:</strong> ACM MobiSys, 2025
     <br>
     <a href="../files/2025_mobisys_demo.pdf" target="_blank">Paper here</a>,
     <a href="../files/mobisys_demo_poster_2025_final.pdf" target="_blank">Poster here</a></p>
@@ -54,7 +54,8 @@ redirect_from:
 > Authors: **Chandrika Mukherjee**, Reham Mohamed, Arjun Arunasalam,  
 > Habiba Farrukh and Z. Berkay Celik
 >
-> Conference: USENIX Security Symposium, 2025  
+> Conference: USENIX Security Symposium, 2025 (Acceptance Rate: 17.1%)  
+> Received **Honorable Mention Award 🏆**  
 > [Paper here](https://www.usenix.org/conference/usenixsecurity25/presentation/mukherjee){:target="\_blank"}
 
 ## 📜 Workshop Papers

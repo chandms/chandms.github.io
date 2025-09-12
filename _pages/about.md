@@ -18,30 +18,37 @@ Therefore, my research combines user-centered mixed-method approaches, comprisin
 
 # Updates
 
-- **[August 2025]** Our collaborative research with Iowa State University on GPU-based side-channel attacks in XR has been accepted at NDSS 2026.
+<span style="font-size: 15px; color: #a74b4bff;">(scroll to see older updates)</span>
 
-- **[August 2025]** At USENIX Security 2025 in Seattle, I presented our paper **Shadowed Realities: An Investigation of UI Attacks in WebXR**, which was recognized with an **Honorable Mention Award** (top 25) 🏆.
+<div style="max-height: 400px; overflow-y: auto; border: 3px solid #ccc; padding: 10px;">
+<div style="max-height: 370px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
-- **[July 2025]** Received USENIX Security'25 student travel grant.
+<p><strong>[August 2025]</strong> Excited to share that our paper on <strong>GPU-based side-channel attacks in XR </strong>, conducted in collaboration with Iowa State University, has been accepted to <strong>NDSS 2026</strong>. Congrats <a href="https://hunie-son.github.io/" target="_blank">Seonghun!!</a></p>
 
-- **[June 2025]** Presented our demo paper **Demo: UI Based Attacks in WebXR** at MobiSys 2025 conference in Anaheim, CA.
+<p><strong>[August 2025]</strong> At <strong>USENIX Security 2025</strong> in Seattle, I presented our paper <strong>Shadowed Realities: An Investigation of UI Attacks in WebXR</strong>, which was recognized with an <strong><a href="https://www.usenix.org/sites/default/files/sec25_honorable_mentions.pdf" target="_blank">Honorable Mention Award</a></strong> (top 25) 🏆.</p>
 
-- **[May 2025]** Started my internship at Meta in Seattle with the Data Flows team under Privacy infra.
+<p><strong>[July 2025]</strong> Received <strong>USENIX Security'25 student travel grant.</strong></p>
 
-- **[May 2025]** Presented our paper **Towards Secure User Interaction in WebXR** at HumanSys 2025 workshop in the CPS-IoT Week at UC Irvine.
+<p><strong>[June 2025]</strong> Presented our demo paper <strong>Demo: UI Based Attacks in WebXR</strong> at <strong>MobiSys 2025</strong> conference in Anaheim, California.</p>
 
-- **[April 2025]** Our demo on UI based attacks in WebXR has been accepted for presentation at ACM MobiSys 2025.
+<p> <strong>[May 2025]</strong> Started my internship at <strong>Meta</strong> in Seattle with the Data Flows team under Privacy infra org.</p>
 
-- **[April 2025]** Received SIGBED student travel grant from CPS-IoT Week 2025.
+<p><strong>[May 2025]</strong> Presented our paper <strong>Towards Secure User Interaction in WebXR</strong> at <strong>HumanSys 2025 workshop</strong> in the <strong>CPS-IoT Week</strong> at UC Irvine.</p>
 
-- **[April 2025]** Received Purdue Women in Science Program (WISP) travel grant 2025.
+<p><strong>[April 2025]</strong> Our demo paper on UI based attacks in WebXR has been accepted for presentation at <strong>ACM MobiSys 2025</strong>.</p>
 
-- **[March 2025]** Our work on securing user interactions in WebXR has been accepted for presentation at HumanSys 2025.
+<p><strong>[April 2025]</strong> Received <strong>SIGBED student travel grant</strong> from <strong>CPS-IoT Week 2025</strong>. </p>
 
-- **[March 2025]** We received a bug bounty award from Meta for our collaborative work with Iowa State University on GPU-based side-channel vulnerabilities.
+<p><strong>[April 2025]</strong> Received <strong>Purdue Women in Science Program (WISP) travel grant 2025</strong>.</p>
 
-- **[March 2025]** I gave a guest lecture in Purdue’s CS 361 course on 'Introduction to XR and Security & Privacy Challenges'.
+<p><strong>[March 2025]</strong> Our work on securing user interactions in WebXR has been accepted for presentation at <strong>HumanSys 2025</strong>.</p>
 
-- **[January 2025]** I have received an internship offer from Meta and will be in Seattle during Summer'25.
+<p><strong>[March 2025]</strong> We received a <strong>bug bounty award</strong> from <strong>Meta</strong> for our collaborative work with Iowa State University on GPU-based side-channel vulnerabilities.</p>
 
-- **[Januray 2025]** Our work about WebXR security was accepted in USENIX Security'25.
+<p><strong>[March 2025]</strong> I gave a guest lecture in Purdue’s CS 361 course on <strong>Introduction to XR and Security & Privacy Challenges</strong>.</p>
+
+<p><strong>[January 2025]</strong> I have received an internship offer from <strong>Meta</strong> and will be in Seattle during <strong>Summer'25</strong>.</p>
+
+<p><strong>[January 2025]</strong> Our work about WebXR security was accepted in <strong>USENIX Security'25</strong>.</p>
+</div>
+</div>

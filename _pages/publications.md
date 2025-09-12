@@ -9,17 +9,26 @@ redirect_from:
 
 ## 📚 Conference Proceedings
 
+> Title: **Side-channel Inference of User Activities in AR/VR
+> Using GPU Profiling**
+>
+> Authors: Seonghun Son, **Chandrika Mukherjee**, Reham Mohamed,  
+> Berk Gulmezoglu, and Z. Berkay Celik
+>
+> Conference: NDSS, 2026
+> (to appear)
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   <div>
     
     <blockquote>
-    <p><strong>Title:</strong> <em>Demo: UI Based Attacks in WebXR</em></p>
+    <p>Title: <strong>Demo: UI Based Attacks in WebXR</strong></p>
 
-    <p><strong>Authors:</strong> <strong>Chandrika Mukherjee</strong>, Reham Mohamed, Arjun Arunasalam,
+    <p>Authors: <strong>Chandrika Mukherjee</strong>, Reham Mohamed, Arjun Arunasalam,
     Habiba Farrukh and Z. Berkay Celik</p>
 
-    <p><strong>Conference:</strong> ACM MobiSys, 2025
+    <p>Conference: ACM MobiSys, 2025
     <br>
     <a href="../files/2025_mobisys_demo.pdf" target="_blank">Paper here</a>,
     <a href="../files/mobisys_demo_poster_2025_final.pdf" target="_blank">Poster here</a></p>

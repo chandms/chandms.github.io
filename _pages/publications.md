@@ -15,8 +15,8 @@ redirect_from:
 > Authors: Seonghun Son, **Chandrika Mukherjee**, Reham Mohamed,  
 > Berk Gulmezoglu, and Z. Berkay Celik
 >
-> Conference: NDSS, 2026
-> (to appear)
+> Conference: NDSS, 2026  
+> [Paper here](https://arxiv.org/abs/2509.10703){:target="\_blank"}
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 

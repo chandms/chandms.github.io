@@ -23,7 +23,7 @@ Therefore, my research combines user-centered mixed-method approaches, comprisin
 <div style="max-height: 400px; overflow-y: auto; border: 3px solid #ccc; padding: 10px;">
 <div style="max-height: 370px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
-<p><strong>[September 2025]</strong> Presented the poster of our accepted USENIX Security 2025 paper at the <strong>Midwest Security Workshop</strong>, organized at <strong>Indiana University Bloomington</strong>. Received the <strong><a href="../files/2025_midwest_security_workshop_poster.pdf" target="_blank">Faculty Choice Best Poster Award</a></strong>.</p>
+<p><strong>[September 2025]</strong> Presented the poster of our accepted USENIX Security 2025 paper at the <strong>Midwest Security Workshop</strong>, organized at <strong>Indiana University Bloomington</strong>. Received the <strong><a href="../files/2025_midwest_security_workshop_poster.pdf" target="_blank">Faculty Choice Best Poster Award</a></strong> 🏆.</p>
 
 <p><strong>[August 2025]</strong> Excited to share that our paper on <strong>GPU-based side-channel attacks in XR </strong>, conducted in collaboration with Iowa State University, has been accepted to <strong>NDSS 2026</strong>. Congrats <a href="https://hunie-son.github.io/" target="_blank">Seonghun!!</a></p>
 

@@ -30,7 +30,7 @@ redirect_from:
 
     <p>Conference: ACM MobiSys, 2025
     <br>
-    <a href="../files/2025_mobisys_demo.pdf" target="_blank">Paper here</a>,
+    <a href="https://dl.acm.org/doi/10.1145/3711875.3734381" target="_blank">Paper here</a>,
     <a href="../files/mobisys_demo_poster_2025_final.pdf" target="_blank">Poster here</a></p>
     </blockquote>
 
